@@ -1,9 +1,9 @@
 Source: gedit-gmate
 Section: gnome
 Priority: optional
-Maintainer: Andrey Sitnik <andrey@sitnik.ru>
+Maintainer: Jan Vermeulen <sigstart@entropy.co.za>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 0.11~uorppa0
+Standards-Version: 0.12-ppa1
 Homepage: http://github.com/gmate/gmate
 Vcs-Git: git://github.com/gmate/gmate.git
 Vcs-Browser: http://github.com/gmate/gmate
@@ -14,6 +14,6 @@ Depends: python, gedit (>= 3), xdg-utils
 Description: Gedit Gmate Plugins pack
  This package contains a collection of plugins and gtksourceview improvements to
  make gedit more powerful to develop especially Ruby on Rails applications.
- To know more details about what ins included in gedit-gmate package please see
- the read-me file at /usr/share/doc/gedit-gmate/README.rdoc
+ For more details about what is included in the gedit-gmate package please see
+ the readme file at /usr/share/doc/gedit-gmate/README.rdoc.
 
